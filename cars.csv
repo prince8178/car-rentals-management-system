@@ -1,0 +1,5 @@
+id,make,model,year,license_plate,daily_rate,is_available
+1,Toyota,Camry,2023,ABC-1234,50.00,1
+2,Toyota,Camry,2023,ABC-1234,50.00,1
+3,Honda,Civic,2022,XYZ-5678,45.00,1
+4,Suzuki,swift,2001,XYB-2235,200.00,1

@@ -1,0 +1,2 @@
+id,car_id,customer_name,customer_phone,rent_date,return_date,total_cost,is_active
+1,1,John Doe,555-1234,2026-10-20 17:34:30,2026-10-20 17:34:30,50.00,0
